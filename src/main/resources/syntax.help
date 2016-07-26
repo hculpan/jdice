@@ -1,0 +1,16 @@
+Following is a quick overview of the syntax for JDice:
+To roll dice, type a dice statement into a text box and hit Enter or the corresponding Roll button.
+----------------------------------------------------------------------
+A dice statement is made up of one set of dice, e.g., 3d6, 4d4, 15d20.
+  * If no number is given before the 'd', then 1 is assumed (e.g., d12 = 1d12).
+  * If no 'd' is included, d6 is assumed (e.g., 3 = 3d6).
+  * Only one dice set can be used and it must be the first thing in the statement.
+  * All spaces are ignored, except to separate numbers (e.g., 5 d8 = 5d8, 5 5 != 55).
+----------------------------------------------------------------------
+Modifiers can be added by appending a +/- and a number (e.g., 3d6+2, 4-2).
+  * You can include any number of modifiers, but be aware that on the Rolls tab, these will be combined to one number (e.g., 3d8+1-2 will be 3d8-1 on the Rolls tab).
+  * Modifiers are optional, but they must start with the second item in the statement.  The first item will always be assumed to be a dice set (e.g., 3+1 = 3d6+1, not 4).
+----------------------------------------------------------------------
+To specify Hero System damage types, append a 'K' for Killing Attacks and a 'N' or 'ND' for Normal Attacks.  This is not case sensitive so, for example, 'K' and 'k' are equal.
+----------------------------------------------------------------------
+For Killing Attacks, modifiers to the stun multiple can be added after the 'K' by appending a signed number (e.g., +1, -1).  The sign must be included, even for positive numbers.

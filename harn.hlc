@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<hit-location-chart name="Harn" ref="Hero Harn Armor">
+	<location id="3" name="face">
+		<stunx>5</stunx>
+		<nstun>2</nstun>
+		<bodyx>2</bodyx>
+		<to-hit>-8</to-hit>
+	</location>
+	<location id="4" name="neck">
+		<stunx>5</stunx>
+		<nstun>2</nstun>
+		<bodyx>2</bodyx>
+		<to-hit>-8</to-hit>
+	</location>
+	<location id="5" name="head">
+		<stunx>5</stunx>
+		<nstun>2</nstun>
+		<bodyx>2</bodyx>
+		<to-hit>-8</to-hit>
+	</location>
+	<location id="6" name="hands">
+		<stunx>1</stunx>
+		<nstun>.5</nstun>
+		<bodyx>.5</bodyx>
+		<to-hit>-6</to-hit>
+	</location>
+	<location id="7" name="forearms">
+		<stunx>2</stunx>
+		<nstun>.5</nstun>
+		<bodyx>.5</bodyx>
+		<to-hit>-5</to-hit>
+	</location>
+	<location id="8" name="upperarms">
+		<stunx>2</stunx>
+		<nstun>.5</nstun>
+		<bodyx>.5</bodyx>
+		<to-hit>-5</to-hit>
+	</location>
+	<location id="9" name="shoulders">
+		<stunx>3</stunx>
+		<nstun>1</nstun>
+		<bodyx>1</bodyx>
+		<to-hit>-5</to-hit>
+	</location>
+	<location id="10" name="chest">
+		<stunx>3</stunx>
+		<nstun>1</nstun>
+		<bodyx>1</bodyx>
+		<to-hit>-3</to-hit>
+	</location>
+	<location id="11" name="chest">
+		<stunx>3</stunx>
+		<nstun>1</nstun>
+		<bodyx>1</bodyx>
+		<to-hit>-3</to-hit>
+	</location>
+	<location id="12" name="stomach">
+		<stunx>4</stunx>
+		<nstun>1.5</nstun>
+		<bodyx>1</bodyx>
+		<to-hit>-7</to-hit>
+	</location>
+	<location id="13" name="vitals">
+		<stunx>4</stunx>
+		<nstun>1.5</nstun>
+		<bodyx>2</bodyx>
+		<to-hit>-8</to-hit>
+	</location>
+	<location id="14" name="thighs">
+		<stunx>2</stunx>
+		<nstun>1</nstun>
+		<bodyx>1</bodyx>
+		<to-hit>-4</to-hit>
+	</location>
+	<location id="15" name="knees">
+		<stunx>2</stunx>
+		<nstun>.5</nstun>
+		<bodyx>.5</bodyx>
+		<to-hit>-6</to-hit>
+	</location>
+	<location id="16" name="legs">
+		<stunx>2</stunx>
+		<nstun>.5</nstun>
+		<bodyx>.5</bodyx>
+		<to-hit>-6</to-hit>
+	</location>
+	<location id="17" name="legs">
+		<stunx>2</stunx>
+		<nstun>.5</nstun>
+		<bodyx>.5</bodyx>
+		<to-hit>-6</to-hit>
+	</location>
+	<location id="18" name="feet">
+		<stunx>1</stunx>
+		<nstun>.5</nstun>
+		<bodyx>.5</bodyx>
+		<to-hit>-8</to-hit>
+	</location>
+</hit-location-chart>

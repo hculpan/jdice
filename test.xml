@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdice>
+  <dice index="0">
+    <name>Initiative</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>2</modifier>
+  </dice>
+  <dice index="1">
+    <name>Diplomacy</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>8</modifier>
+  </dice>
+  <dice index="2">
+    <name>Intimidate</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>7</modifier>
+  </dice>
+  <dice index="3">
+    <name>Attack : Greataxe</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>5</modifier>
+  </dice>
+  <dice index="4">
+    <name>Damage : Greataxe</name>
+    <number-dice>1</number-dice>
+    <die-type>12</die-type>
+    <modifier>3</modifier>
+  </dice>
+  <dice index="5">
+    <name>F6</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>0</modifier>
+  </dice>
+  <dice index="6">
+    <name>Attack : Dagger</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>4</modifier>
+  </dice>
+  <dice index="7">
+    <name>Damage : Dagger</name>
+    <number-dice>1</number-dice>
+    <die-type>4</die-type>
+    <modifier>2</modifier>
+  </dice>
+  <dice index="8">
+    <name>F9</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>0</modifier>
+  </dice>
+  <dice index="9">
+    <name>Fortitude</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>7</modifier>
+  </dice>
+  <dice index="10">
+    <name>Reflex</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>1</modifier>
+  </dice>
+  <dice index="11">
+    <name>Will</name>
+    <number-dice>1</number-dice>
+    <die-type>20</die-type>
+    <modifier>2</modifier>
+  </dice>
+  <hit-points>20</hit-points>
+</jdice>
+
