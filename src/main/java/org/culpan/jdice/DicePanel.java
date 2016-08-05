@@ -1018,8 +1018,7 @@ public class DicePanel extends BaseDicePanel implements ActionListener {
 		for (int i = 0; i < rolls.length; i++) {
 			body += rolls[i];
 		}
-		int tmp = rnd.nextInt(6);
-		multiplier = (tmp < 1 ? 1 : tmp);
+		multiplier = rnd.nextInt(3) + 1;
 
 		if (useHitLocationKA) {
 			hitLocation = determineHitLocation();
