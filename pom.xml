@@ -40,24 +40,6 @@
           <target>1.8</target>
         </configuration>
       </plugin>
-<!--      <plugin>
-        <groupId>sh.tak.appbundler</groupId>
-        <artifactId>appbundle-maven-plugin</artifactId>
-        <version>1.1.0</version>
-        <configuration>
-          <mainClass>org.culpan.jdice.JDiceMain</mainClass>
-          <iconFile>d6.icns</iconFile>
-          <jrePath>/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk</jrePath>
-        </configuration>
-        <executions>
-          <execution>
-            <phase>package</phase>
-            <goals>
-              <goal>bundle</goal>
-            </goals>
-          </execution>
-        </executions>
-      </plugin> -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-shade-plugin</artifactId>
@@ -156,5 +138,5 @@
     	  </plugins>
 	    </build>
     </profile>
-  </profiles> -->
+  </profiles>
 </project>
